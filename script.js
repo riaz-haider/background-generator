@@ -1,3 +1,5 @@
+import {without} from 'lodash';
+console.log(without);
 var mycss = document.querySelector("h3");
 var mycolor1 = document.querySelector(".color1");
 var mycolor2 = document.querySelector(".color2");
